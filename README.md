@@ -2,4 +2,4 @@
 Git動画講座diff練習用
 ローカルリポで変更
 rebase-practiceブランチで更新(rebase コンフリクト用)
-stash用(conflict発生)
+stash用(2nd)
